@@ -14,7 +14,7 @@ class Levee:
         Parameters
         ----------
         shape (str)
-            Shape of the levee.
+            Shape of the levee. Either 'rectangle' or 'triangle'. Default value: 'triangle'
 
         Returns
         -------

@@ -1,5 +1,5 @@
 # deep-example-repo
-Training in making a repo. Only module this far: `deep.py`. 
+Training in making a repo
 
 
 # Classes
